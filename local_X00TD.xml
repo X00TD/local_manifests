@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="X00TD" fetch="https://github.com/X00TD/" />
+
+  <project path="device/asus/X00TD" name="android_device_asus_X00TD" remote="X00TD" revision="lineage-15.1" />
+  <project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660" remote="X00TD" revision="lineage-15.1" />
+  <project path="vendor/asus" name="android_vendor_asus" remote="X00TD" revision="lineage-15.1" />
+</manifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remove-project name="LineageOS/android_bootable_recovery" />
+    <project path="bootable/recovery" name="omnirom/android_bootable_recovery" revision="android-8.1" remote="github" />
+	<project path="external/busybox" name="omnirom/android_external_busybox" revision="android-8.1" remote="github" />
+</manifest>
