@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="prebuilts/clang/host/linux-x86/clang-328903" name="APOPHIS9283/clang-r328903" revision="master" remote="github" />
+</manifest>
